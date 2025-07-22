@@ -1,7 +1,5 @@
 # 🧮 Simple Calculator
 
-This is a simple web-based calculator built as part of my self-learning on Docker.
-
 You can run this calculator on your local machine using a Python environment, or quickly launch it using Docker.
 
 ---
