@@ -1,3 +1,4 @@
+
 # 🧮 Simple Calculator
 
 You can run this calculator on your local machine using a Python environment, or quickly launch it using Docker.
@@ -45,11 +46,6 @@ You can run this calculator on your local machine using a Python environment, or
    http://localhost:5000
    ```
 
-   Or through the DevTunnel:
-   ```
-   https://wkrgq2cz-8080.inc1.devtunnels.ms/
-   ```
-
 ---
 
 ### Option 2: Run with Docker
@@ -69,10 +65,6 @@ You can run this calculator on your local machine using a Python environment, or
    http://localhost:8080
    ```
 
-   Or through the DevTunnel (Easy way):
-   ```
-   https://wkrgq2cz-8080.inc1.devtunnels.ms/
-   ```
 
 ---
 
@@ -97,3 +89,4 @@ https://hub.docker.com/r/rimshid/simple_calculator
 ## 📄 License
 
 This project is for educational purposes and is licensed under the [MIT License](LICENSE).
+
